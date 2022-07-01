@@ -5,6 +5,7 @@ provider "azurerm" {
   features {}
   subscription_id = var.subscription_id
 }
+
 data "azurerm_resource_group" "DNS_ResourceGroup" {
   name = var.resource_group_name
 }
