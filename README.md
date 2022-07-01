@@ -1,7 +1,6 @@
 # Azure Private DNS Module
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 ![Terraform Version](https://img.shields.io/badge/Terraform%20Version-latest-blue)
-![Service Classification](https://img.shields.io/badge/Service%20Classification-Core%20Service-green)
 ![Version](https://img.shields.io/badge/Version-0.0.9-green)
 
 ##  Description
