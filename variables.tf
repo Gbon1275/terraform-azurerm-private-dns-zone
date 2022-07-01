@@ -62,7 +62,6 @@ variable "txt_records" {
     description = "List of TXT records"
 }
 
-
 variable "ptr_records" {
     type  = list(object({
         name = string
